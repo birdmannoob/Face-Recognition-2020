@@ -7,5 +7,3 @@ In order to run the code 'FaceRecog(opencv + dlib).py' without modifying, just p
 
 #Notes: This repository do not include the dataset(images) used for training. If you want to retrain the model, simply create a folder named 'dataset' in the same directory as where you saved the other files, and in the folder, create invidual folders for each person with their names as the folder name.
 
-secret code: 20117107
--JY Law
